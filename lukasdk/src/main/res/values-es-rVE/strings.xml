@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="card_number">Numero de tarjeta</string>
+    <string name="card_holder_name">Nombre tarjetahabiente</string>
+    <string name="name">Nombre</string>
+    <string name="expiry_date">Fecha vencimiento</string>
+    <string name="cvv">CVV</string>
+    <string name="expiry_date_hint">MM/AA</string>
+    <string name="enter_card_details">Ingresa los datos de tu tarjeta</string>
+    <string name="card_details">Datos de Tarjeta</string>
+    <string name="add">Agregar</string>
+    <string name="accept">Aceptar</string>
+    <string name="auth_unavailable_3ds">La autenticacion con 3D secure no esta disponible para esta tarjeta.</string>
+    <string name="auth_error_3ds">Error interno de 3D secure.</string>
+    <string name="auth_failed_3ds">La autenticacion con 3D secure no ha sido exitosa para esta tarjeta.</string>
+</resources>

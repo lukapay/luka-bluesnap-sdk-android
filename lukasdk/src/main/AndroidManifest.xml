@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity
+            android:name=".presentation.view.AddCardDetailsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_add_card_details"
+            android:theme="@style/Theme.BluesnapSdkApp"
+            android:screenOrientation="portrait"/>
+    </application>
+
+</manifest>
