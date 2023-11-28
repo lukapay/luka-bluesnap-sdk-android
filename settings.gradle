@@ -24,5 +24,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "bluesnapsdksample"
-include ':app'
+//include ':app'
 include ':lukasdk'
